@@ -25,7 +25,7 @@ weight: 1
 
 ## Remote Pilot Privileges
 
-- Remote pilot must be designated before each flight & can change mid flight
+- Remote pilot must be designated before ech flight & can change mid flight
 - Ensure operation poses no undue hazard to people, property, or aircraft in event of loss of control
 - Operate sUA to ensure compliance with all provisions and regulations
 - Person may not operate or act as Remote PIC of more than 1 UA at a time.
@@ -115,7 +115,7 @@ Maximum penalty for falsification of records is suspension of revocation of any 
 ## Remote Identification
 
 - Remote id is the ability to provide identification and location information via wifi/bluetooth
-- Since Sept 16, 2023 no person may operate in airspace unless meeting the requirements of **standard remote** identfication or alternate **remote identfication** unless authorized by the FAA
+- Beginning Sept 16, 2023 no person may operate in airspace unless meeting the requirements of **standard remote** identfication or alternate **remote identfication** unless authorized by the FAA
 - ID's must broadcast from takeoff to shutdown - in event of failure pilot must land asap
 <!--SR:!2023-05-24,16,250-->
 
